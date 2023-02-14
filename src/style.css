@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+}
+.header{
+    background-color: rgb(20, 162, 25);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-size: 52px;
+}
+ul{
+    display: flex;
+    gap: 6rem;
+    list-style: none;
+}
+.center{
+    background-color: rgb(173, 255, 47);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.footer{
+    background-color: gold;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
